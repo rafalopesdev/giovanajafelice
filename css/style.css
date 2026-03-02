@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+img {
+  /* width: 100%; */
+}
+p {
+  margin-bottom: 8px;
+  line-height: 24px;
+}
+
+/* HEADER */
+.container {
+  max-width: 1320px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.content-items {
+  padding: 40px;
+}
+.border-bt-green {
+  border-bottom: 10px solid;
+  border-color: #3b7e74;
+}
+.border-bt-roxo {
+  border-bottom: 10px solid;
+  border-color: #7e3b79;
+}
